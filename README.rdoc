@@ -1,6 +1,0 @@
-== README
-
-This App is the first_app from the Hartl Tutorial at http://ruby.railstutorial.org/
-
-Ruby 2.0
-Rails 4.0
